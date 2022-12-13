@@ -2,10 +2,10 @@
  Sensor de estacionamento usando o sensor ultrassônico HC-SR04 e STM32F070F6
  
 # Equipe
- Clara Luz Salles Cavalcante - 511201
- Danilo Mota Alencar Filho - 508706
- Juan Gabriel de Sousa Ponce - 509134
- Luana Izy Veras Tavares - 511888
+* Clara Luz Salles Cavalcante - 511201
+* Danilo Mota Alencar Filho - 508706
+* Juan Gabriel de Sousa Ponce - 509134
+* Luana Izy Veras Tavares - 511888
 
 ![projetomicro](https://user-images.githubusercontent.com/95931755/207395179-aa8bb259-ea76-48ea-8979-bd04fe6693db.png)
 ![projetomicro (1)](https://user-images.githubusercontent.com/95931755/207395263-5a2eb3a3-7a3b-461a-b02d-8a71809343ee.png)
